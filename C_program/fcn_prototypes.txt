@@ -1,0 +1,6 @@
+void SystemClock_Config(void);
+void GPIO_Init(void);
+void ADC_Init(void);
+float Read_Temperature(void);
+void Control_Heater(float setpoint, float current_temp);
+void Error_Handler(void);
