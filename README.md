@@ -9,3 +9,13 @@ Under the "symbols_footprints" folder, there are all the symbols and footprints 
 Under the "Mechanical_CAD" file, there are FreeCAD files showing the mechanical assembly of the design.
 
 Under the "C_program" file, there is the C code for the control loop, created using STM32 Cube IDE.
+
+
+![PCB Design 1](pcb_top.jpg)
+
+![PCB Design 2](pcb_bottom.jpg)
+
+![PCB 3D View](pcb3d.jpg)
+
+
+![Mechanical Design](cad_v1.jpg)
