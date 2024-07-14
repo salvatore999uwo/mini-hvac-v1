@@ -13,7 +13,7 @@ Under the "C_program" file, there is the C code for the control loop, created us
 
 ![PCB Design 1](pcb_top.jpg)
 
-![PCB Design 2](URL)
+![PCB Design 2](pcb_bottom.jpg)
 
 ![PCB 3D View](URL)
 
