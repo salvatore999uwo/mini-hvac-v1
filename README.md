@@ -15,7 +15,7 @@ Under the "C_program" file, there is the C code for the control loop, created us
 
 ![PCB Design 2](pcb_bottom.jpg)
 
-![PCB 3D View](URL)
+![PCB 3D View](pcb3d.jpg)
 
 
 ![Mechanical Design](cad_v1.jpg)
