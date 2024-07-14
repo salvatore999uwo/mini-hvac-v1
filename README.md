@@ -11,7 +11,7 @@ Under the "Mechanical_CAD" file, there are FreeCAD files showing the mechanical 
 Under the "C_program" file, there is the C code for the control loop, created using STM32 Cube IDE.
 
 
-![PCB Design 1](URL)
+![PCB Design 1](pcb_top.jpg)
 
 ![PCB Design 2](URL)
 
