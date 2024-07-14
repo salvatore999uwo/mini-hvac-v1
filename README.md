@@ -18,4 +18,4 @@ Under the "C_program" file, there is the C code for the control loop, created us
 ![PCB 3D View](URL)
 
 
-![Mechanical Design](URL)
+![Mechanical Design](cad_v1.jpg)
